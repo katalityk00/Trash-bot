@@ -1,0 +1,29 @@
+{
+  "name": "werewolf-awakening",
+  "version": "1.0.0",
+  "description": "bot of the werewolf awakening game for discord",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katalityk00/werewolf-awakening.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "werewolf"
+  ],
+  "author": "Maxime Bertrand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katalityk00/werewolf-awakening/issues"
+  },
+  "homepage": "https://github.com/katalityk00/werewolf-awakening#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "node-opus": "^0.3.0"
+  }
+}
